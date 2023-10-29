@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="what_is_addition">
+    <title>What is addition </title>
+    <shortdesc>Here you will learn what is addition.</shortdesc>
+    <conbody>
+        <p>Addition is the process of calculating the total of two or more numbers. The total of two
+            or more numbers is known as the <i><b>sum</b></i>. The symbol <b>(</b>+<b>)</b>
+            represents the addition function. </p>
+        <p><b>Example:</b> If we add 10 and 3, <b>(10 + 3)</b> we get the sum to be 13. Here, we
+            performed the addition operation of the numbers 10 and 3 to get the sum (13). </p>
+        <p>Addition is used to find the sum total of your shopping at the grocery store.</p>
+    </conbody>
+</concept>

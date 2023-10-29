@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_sum_up_numbers">
+    <title>How to add numbers</title>
+    <shortdesc>Here you will find instructions about using the sum up or addition feature of the JPS
+        Calculator.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_qvh_2d4_fzb">To successfully add numbers ,you must know what is
+            addition.</prereq>
+        <steps>
+            <step>
+                <cmd>Enter the first number.</cmd>
+            </step>
+            <step>
+                <cmd>Choose the addition (+) button.</cmd>
+            </step>
+            <step>
+                <cmd>Enter the second number.</cmd>
+            </step>
+            <step>
+                <cmd>Choose the equals (=) button.</cmd>
+            </step>
+        </steps>
+        <result id="result_e4c_nd4_fzb">The result from the addition is displayed.</result>
+        <example id="example_ez2_pd4_fzb">
+            <p>Let's say you want to add 30 to 55 .The quation will look 55+35=90. You enter
+                55.Press add (+). Enter 35. Press equals(=). </p>
+            <p>The result 90 appears on the screen. </p>
+        </example>
+    </taskbody>
+</task>

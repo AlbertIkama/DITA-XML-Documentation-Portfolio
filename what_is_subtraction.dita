@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="what_is_subtraction">
+    <title>What is subtraction</title>
+    <shortdesc>Here you will learn what is subtraction.</shortdesc>
+    <conbody>
+        <p>Subtraction is the process of finding the difference between two numbers or quantities.
+            The symbol <b>(-) </b>represents the process.</p>
+        <p><b>Example:</b> If you have 17 cars in your company and the management decides to sell 9,
+            how many cars remain?</p>
+        <p><b>Solution:</b> To get the difference, we minus 9 from 17. That is <b>17-9 = 8</b>.
+            Here, we performed the subtraction operation on the two numbers 17 and 9 to get the
+            difference to be 8. </p>
+    </conbody>
+</concept>

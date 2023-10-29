@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="what_is_division">
+    <title>What is division</title>
+    <shortdesc>Here you will learn what is division.</shortdesc>
+    <conbody>
+        <p>Division is a mathematical operation that breaks down larger numbers into smaller groups
+            having the same number of items. The operation is denoted by <b>(÷)</b>.</p>
+        <p><b>Example:</b> If 40 athletes in a sports event need to be divided into groups of 5 ,
+            then how many groups will be formed? </p>
+        <p><b>Solution:</b> Here we need to divide 40 by 5. The result will be <b>40 ÷ 5 = 8.</b>
+        </p>
+        <p>So, there will be 8 groups of 5 athletes in each group.</p>
+    </conbody>
+</concept>

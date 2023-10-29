@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="what_is_multiplication_of_numbers">
+    <title>What is multiplication of  numbers</title>
+    <shortdesc>Here you will learn what is multiplication.</shortdesc>
+    <conbody>
+        <p>Multiplication is the process of calculating the product of two or more numbers. The
+            symbols <b>(×)</b> and <b>(*)</b> represent the multiplication operation.
+            Multiplication simplifies the task of repeated addition of the same number.</p>
+        <p><b>Example:</b> If there are 10 boxes of cupcakes and each box has 8 cupcakes, find the
+            total number of cupcakes.</p>
+        <p><b>Solution:</b> We can solve this question by addition, but it would take longer to add
+            these and get the answer. That is, <b><i>10 + 10+ 10 + 10 + 10 + 10 + 10 + 10 = 80
+                    cupcakes</i></b>. </p>
+        <p>For large numbers, this approach can be a challenge. However, multiplication simplifies
+            the process, especially when working with large numbers. That is <b><i>10 × 8= 80
+                    cupcakes</i></b>.</p>
+    </conbody>
+</concept>
